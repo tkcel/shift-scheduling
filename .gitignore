@@ -1,0 +1,7 @@
+data
+
+.local
+.ipython
+.ipynb_checkpoints
+.cache
+.bash_history
